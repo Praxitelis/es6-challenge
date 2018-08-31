@@ -1,37 +1,4 @@
-console.log('hello there!');
 
-//////////////////// Town
-
-
-// size classification
-// total and average length of streets
-
-
-
-// average park age = age sum / number of parks
-// Park with most trees
-
-
-
-
-
-
-
-/////////////////////// Streets 
-
-// Name
-// Build year
-
-// length 
-
-
-////////////////////// Parks
-
-// Name
-// Build year
-
-// Size
-// Number of trees
 
 
 
